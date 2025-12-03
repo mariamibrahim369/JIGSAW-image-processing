@@ -1,0 +1,1497 @@
+{
+    "0.jpg": {
+        "0": {
+            "tile_file": "tile_0.png",
+            "edge_file": "edges_0.png",
+            "contour_file": "contour_0.png",
+            "position": [
+                0,
+                0
+            ],
+            "grid_position": [
+                0,
+                0
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "1": {
+            "tile_file": "tile_1.png",
+            "edge_file": "edges_1.png",
+            "contour_file": "contour_1.png",
+            "position": [
+                28,
+                0
+            ],
+            "grid_position": [
+                0,
+                1
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "2": {
+            "tile_file": "tile_2.png",
+            "edge_file": "edges_2.png",
+            "contour_file": "contour_2.png",
+            "position": [
+                56,
+                0
+            ],
+            "grid_position": [
+                0,
+                2
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "3": {
+            "tile_file": "tile_3.png",
+            "edge_file": "edges_3.png",
+            "contour_file": "contour_3.png",
+            "position": [
+                84,
+                0
+            ],
+            "grid_position": [
+                0,
+                3
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "4": {
+            "tile_file": "tile_4.png",
+            "edge_file": "edges_4.png",
+            "contour_file": "contour_4.png",
+            "position": [
+                112,
+                0
+            ],
+            "grid_position": [
+                0,
+                4
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "5": {
+            "tile_file": "tile_5.png",
+            "edge_file": "edges_5.png",
+            "contour_file": "contour_5.png",
+            "position": [
+                140,
+                0
+            ],
+            "grid_position": [
+                0,
+                5
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "6": {
+            "tile_file": "tile_6.png",
+            "edge_file": "edges_6.png",
+            "contour_file": "contour_6.png",
+            "position": [
+                168,
+                0
+            ],
+            "grid_position": [
+                0,
+                6
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "7": {
+            "tile_file": "tile_7.png",
+            "edge_file": "edges_7.png",
+            "contour_file": "contour_7.png",
+            "position": [
+                196,
+                0
+            ],
+            "grid_position": [
+                0,
+                7
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "8": {
+            "tile_file": "tile_8.png",
+            "edge_file": "edges_8.png",
+            "contour_file": "contour_8.png",
+            "position": [
+                0,
+                28
+            ],
+            "grid_position": [
+                1,
+                0
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "9": {
+            "tile_file": "tile_9.png",
+            "edge_file": "edges_9.png",
+            "contour_file": "contour_9.png",
+            "position": [
+                28,
+                28
+            ],
+            "grid_position": [
+                1,
+                1
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "10": {
+            "tile_file": "tile_10.png",
+            "edge_file": "edges_10.png",
+            "contour_file": "contour_10.png",
+            "position": [
+                56,
+                28
+            ],
+            "grid_position": [
+                1,
+                2
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "11": {
+            "tile_file": "tile_11.png",
+            "edge_file": "edges_11.png",
+            "contour_file": "contour_11.png",
+            "position": [
+                84,
+                28
+            ],
+            "grid_position": [
+                1,
+                3
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "12": {
+            "tile_file": "tile_12.png",
+            "edge_file": "edges_12.png",
+            "contour_file": "contour_12.png",
+            "position": [
+                112,
+                28
+            ],
+            "grid_position": [
+                1,
+                4
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "13": {
+            "tile_file": "tile_13.png",
+            "edge_file": "edges_13.png",
+            "contour_file": "contour_13.png",
+            "position": [
+                140,
+                28
+            ],
+            "grid_position": [
+                1,
+                5
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "14": {
+            "tile_file": "tile_14.png",
+            "edge_file": "edges_14.png",
+            "contour_file": "contour_14.png",
+            "position": [
+                168,
+                28
+            ],
+            "grid_position": [
+                1,
+                6
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "15": {
+            "tile_file": "tile_15.png",
+            "edge_file": "edges_15.png",
+            "contour_file": "contour_15.png",
+            "position": [
+                196,
+                28
+            ],
+            "grid_position": [
+                1,
+                7
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "16": {
+            "tile_file": "tile_16.png",
+            "edge_file": "edges_16.png",
+            "contour_file": "contour_16.png",
+            "position": [
+                0,
+                56
+            ],
+            "grid_position": [
+                2,
+                0
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "17": {
+            "tile_file": "tile_17.png",
+            "edge_file": "edges_17.png",
+            "contour_file": "contour_17.png",
+            "position": [
+                28,
+                56
+            ],
+            "grid_position": [
+                2,
+                1
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "18": {
+            "tile_file": "tile_18.png",
+            "edge_file": "edges_18.png",
+            "contour_file": "contour_18.png",
+            "position": [
+                56,
+                56
+            ],
+            "grid_position": [
+                2,
+                2
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "19": {
+            "tile_file": "tile_19.png",
+            "edge_file": "edges_19.png",
+            "contour_file": "contour_19.png",
+            "position": [
+                84,
+                56
+            ],
+            "grid_position": [
+                2,
+                3
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "20": {
+            "tile_file": "tile_20.png",
+            "edge_file": "edges_20.png",
+            "contour_file": "contour_20.png",
+            "position": [
+                112,
+                56
+            ],
+            "grid_position": [
+                2,
+                4
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "21": {
+            "tile_file": "tile_21.png",
+            "edge_file": "edges_21.png",
+            "contour_file": "contour_21.png",
+            "position": [
+                140,
+                56
+            ],
+            "grid_position": [
+                2,
+                5
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "22": {
+            "tile_file": "tile_22.png",
+            "edge_file": "edges_22.png",
+            "contour_file": "contour_22.png",
+            "position": [
+                168,
+                56
+            ],
+            "grid_position": [
+                2,
+                6
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "23": {
+            "tile_file": "tile_23.png",
+            "edge_file": "edges_23.png",
+            "contour_file": "contour_23.png",
+            "position": [
+                196,
+                56
+            ],
+            "grid_position": [
+                2,
+                7
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "24": {
+            "tile_file": "tile_24.png",
+            "edge_file": "edges_24.png",
+            "contour_file": "contour_24.png",
+            "position": [
+                0,
+                84
+            ],
+            "grid_position": [
+                3,
+                0
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "25": {
+            "tile_file": "tile_25.png",
+            "edge_file": "edges_25.png",
+            "contour_file": "contour_25.png",
+            "position": [
+                28,
+                84
+            ],
+            "grid_position": [
+                3,
+                1
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "26": {
+            "tile_file": "tile_26.png",
+            "edge_file": "edges_26.png",
+            "contour_file": "contour_26.png",
+            "position": [
+                56,
+                84
+            ],
+            "grid_position": [
+                3,
+                2
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "27": {
+            "tile_file": "tile_27.png",
+            "edge_file": "edges_27.png",
+            "contour_file": "contour_27.png",
+            "position": [
+                84,
+                84
+            ],
+            "grid_position": [
+                3,
+                3
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "28": {
+            "tile_file": "tile_28.png",
+            "edge_file": "edges_28.png",
+            "contour_file": "contour_28.png",
+            "position": [
+                112,
+                84
+            ],
+            "grid_position": [
+                3,
+                4
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "29": {
+            "tile_file": "tile_29.png",
+            "edge_file": "edges_29.png",
+            "contour_file": "contour_29.png",
+            "position": [
+                140,
+                84
+            ],
+            "grid_position": [
+                3,
+                5
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "30": {
+            "tile_file": "tile_30.png",
+            "edge_file": "edges_30.png",
+            "contour_file": "contour_30.png",
+            "position": [
+                168,
+                84
+            ],
+            "grid_position": [
+                3,
+                6
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "31": {
+            "tile_file": "tile_31.png",
+            "edge_file": "edges_31.png",
+            "contour_file": "contour_31.png",
+            "position": [
+                196,
+                84
+            ],
+            "grid_position": [
+                3,
+                7
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "32": {
+            "tile_file": "tile_32.png",
+            "edge_file": "edges_32.png",
+            "contour_file": "contour_32.png",
+            "position": [
+                0,
+                112
+            ],
+            "grid_position": [
+                4,
+                0
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "33": {
+            "tile_file": "tile_33.png",
+            "edge_file": "edges_33.png",
+            "contour_file": "contour_33.png",
+            "position": [
+                28,
+                112
+            ],
+            "grid_position": [
+                4,
+                1
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "34": {
+            "tile_file": "tile_34.png",
+            "edge_file": "edges_34.png",
+            "contour_file": "contour_34.png",
+            "position": [
+                56,
+                112
+            ],
+            "grid_position": [
+                4,
+                2
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "35": {
+            "tile_file": "tile_35.png",
+            "edge_file": "edges_35.png",
+            "contour_file": "contour_35.png",
+            "position": [
+                84,
+                112
+            ],
+            "grid_position": [
+                4,
+                3
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "36": {
+            "tile_file": "tile_36.png",
+            "edge_file": "edges_36.png",
+            "contour_file": "contour_36.png",
+            "position": [
+                112,
+                112
+            ],
+            "grid_position": [
+                4,
+                4
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "37": {
+            "tile_file": "tile_37.png",
+            "edge_file": "edges_37.png",
+            "contour_file": "contour_37.png",
+            "position": [
+                140,
+                112
+            ],
+            "grid_position": [
+                4,
+                5
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "38": {
+            "tile_file": "tile_38.png",
+            "edge_file": "edges_38.png",
+            "contour_file": "contour_38.png",
+            "position": [
+                168,
+                112
+            ],
+            "grid_position": [
+                4,
+                6
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "39": {
+            "tile_file": "tile_39.png",
+            "edge_file": "edges_39.png",
+            "contour_file": "contour_39.png",
+            "position": [
+                196,
+                112
+            ],
+            "grid_position": [
+                4,
+                7
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "40": {
+            "tile_file": "tile_40.png",
+            "edge_file": "edges_40.png",
+            "contour_file": "contour_40.png",
+            "position": [
+                0,
+                140
+            ],
+            "grid_position": [
+                5,
+                0
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "41": {
+            "tile_file": "tile_41.png",
+            "edge_file": "edges_41.png",
+            "contour_file": "contour_41.png",
+            "position": [
+                28,
+                140
+            ],
+            "grid_position": [
+                5,
+                1
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "42": {
+            "tile_file": "tile_42.png",
+            "edge_file": "edges_42.png",
+            "contour_file": "contour_42.png",
+            "position": [
+                56,
+                140
+            ],
+            "grid_position": [
+                5,
+                2
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "43": {
+            "tile_file": "tile_43.png",
+            "edge_file": "edges_43.png",
+            "contour_file": "contour_43.png",
+            "position": [
+                84,
+                140
+            ],
+            "grid_position": [
+                5,
+                3
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "44": {
+            "tile_file": "tile_44.png",
+            "edge_file": "edges_44.png",
+            "contour_file": "contour_44.png",
+            "position": [
+                112,
+                140
+            ],
+            "grid_position": [
+                5,
+                4
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "45": {
+            "tile_file": "tile_45.png",
+            "edge_file": "edges_45.png",
+            "contour_file": "contour_45.png",
+            "position": [
+                140,
+                140
+            ],
+            "grid_position": [
+                5,
+                5
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "46": {
+            "tile_file": "tile_46.png",
+            "edge_file": "edges_46.png",
+            "contour_file": "contour_46.png",
+            "position": [
+                168,
+                140
+            ],
+            "grid_position": [
+                5,
+                6
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "47": {
+            "tile_file": "tile_47.png",
+            "edge_file": "edges_47.png",
+            "contour_file": "contour_47.png",
+            "position": [
+                196,
+                140
+            ],
+            "grid_position": [
+                5,
+                7
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "48": {
+            "tile_file": "tile_48.png",
+            "edge_file": "edges_48.png",
+            "contour_file": "contour_48.png",
+            "position": [
+                0,
+                168
+            ],
+            "grid_position": [
+                6,
+                0
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "49": {
+            "tile_file": "tile_49.png",
+            "edge_file": "edges_49.png",
+            "contour_file": "contour_49.png",
+            "position": [
+                28,
+                168
+            ],
+            "grid_position": [
+                6,
+                1
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "50": {
+            "tile_file": "tile_50.png",
+            "edge_file": "edges_50.png",
+            "contour_file": "contour_50.png",
+            "position": [
+                56,
+                168
+            ],
+            "grid_position": [
+                6,
+                2
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "51": {
+            "tile_file": "tile_51.png",
+            "edge_file": "edges_51.png",
+            "contour_file": "contour_51.png",
+            "position": [
+                84,
+                168
+            ],
+            "grid_position": [
+                6,
+                3
+            ],
+            "num_contours": 1,
+            "contours": [
+                {
+                    "points": [
+                        [
+                            [
+                                2,
+                                0
+                            ]
+                        ],
+                        [
+                            [
+                                1,
+                                1
+                            ]
+                        ],
+                        [
+                            [
+                                0,
+                                1
+                            ]
+                        ],
+                        [
+                            [
+                                13,
+                                1
+                            ]
+                        ],
+                        [
+                            [
+                                14,
+                                2
+                            ]
+                        ],
+                        [
+                            [
+                                13,
+                                3
+                            ]
+                        ],
+                        [
+                            [
+                                13,
+                                9
+                            ]
+                        ],
+                        [
+                            [
+                                14,
+                                10
+                            ]
+                        ],
+                        [
+                            [
+                                13,
+                                11
+                            ]
+                        ],
+                        [
+                            [
+                                13,
+                                12
+                            ]
+                        ],
+                        [
+                            [
+                                12,
+                                13
+                            ]
+                        ],
+                        [
+                            [
+                                12,
+                                14
+                            ]
+                        ],
+                        [
+                            [
+                                10,
+                                16
+                            ]
+                        ],
+                        [
+                            [
+                                10,
+                                17
+                            ]
+                        ],
+                        [
+                            [
+                                8,
+                                19
+                            ]
+                        ],
+                        [
+                            [
+                                7,
+                                19
+                            ]
+                        ],
+                        [
+                            [
+                                6,
+                                18
+                            ]
+                        ],
+                        [
+                            [
+                                7,
+                                17
+                            ]
+                        ],
+                        [
+                            [
+                                7,
+                                16
+                            ]
+                        ],
+                        [
+                            [
+                                9,
+                                14
+                            ]
+                        ],
+                        [
+                            [
+                                9,
+                                13
+                            ]
+                        ],
+                        [
+                            [
+                                10,
+                                12
+                            ]
+                        ],
+                        [
+                            [
+                                10,
+                                6
+                            ]
+                        ],
+                        [
+                            [
+                                9,
+                                5
+                            ]
+                        ],
+                        [
+                            [
+                                8,
+                                5
+                            ]
+                        ],
+                        [
+                            [
+                                7,
+                                4
+                            ]
+                        ],
+                        [
+                            [
+                                6,
+                                5
+                            ]
+                        ],
+                        [
+                            [
+                                5,
+                                5
+                            ]
+                        ],
+                        [
+                            [
+                                0,
+                                10
+                            ]
+                        ],
+                        [
+                            [
+                                1,
+                                11
+                            ]
+                        ],
+                        [
+                            [
+                                1,
+                                10
+                            ]
+                        ],
+                        [
+                            [
+                                7,
+                                4
+                            ]
+                        ],
+                        [
+                            [
+                                10,
+                                7
+                            ]
+                        ],
+                        [
+                            [
+                                10,
+                                12
+                            ]
+                        ],
+                        [
+                            [
+                                9,
+                                13
+                            ]
+                        ],
+                        [
+                            [
+                                9,
+                                14
+                            ]
+                        ],
+                        [
+                            [
+                                3,
+                                20
+                            ]
+                        ],
+                        [
+                            [
+                                0,
+                                20
+                            ]
+                        ],
+                        [
+                            [
+                                3,
+                                20
+                            ]
+                        ],
+                        [
+                            [
+                                4,
+                                19
+                            ]
+                        ],
+                        [
+                            [
+                                5,
+                                19
+                            ]
+                        ],
+                        [
+                            [
+                                6,
+                                18
+                            ]
+                        ],
+                        [
+                            [
+                                8,
+                                20
+                            ]
+                        ],
+                        [
+                            [
+                                5,
+                                23
+                            ]
+                        ],
+                        [
+                            [
+                                3,
+                                23
+                            ]
+                        ],
+                        [
+                            [
+                                1,
+                                25
+                            ]
+                        ],
+                        [
+                            [
+                                1,
+                                27
+                            ]
+                        ],
+                        [
+                            [
+                                1,
+                                26
+                            ]
+                        ],
+                        [
+                            [
+                                4,
+                                23
+                            ]
+                        ],
+                        [
+                            [
+                                5,
+                                23
+                            ]
+                        ],
+                        [
+                            [
+                                6,
+                                22
+                            ]
+                        ],
+                        [
+                            [
+                                7,
+                                23
+                            ]
+                        ],
+                        [
+                            [
+                                7,
+                                24
+                            ]
+                        ],
+                        [
+                            [
+                                8,
+                                25
+                            ]
+                        ],
+                        [
+                            [
+                                8,
+                                27
+                            ]
+                        ],
+                        [
+                            [
+                                8,
+                                26
+                            ]
+                        ],
+                        [
+                            [
+                                9,
+                                25
+                            ]
+                        ],
+                        [
+                            [
+                                9,
+                                24
+                            ]
+                        ],
+                        [
+                            [
+                                10,
+                                23
+                            ]
+                        ],
+                        [
+                            [
+                                10,
+                                22
+                            ]
+                        ],
+                        [
+                            [
+                                11,
+                                21
+                            ]
+                        ],
+                        [
+                            [
+                                12,
+                                21
+                            ]
+                        ],
+                        [
+                            [
+                                13,
+                                22
+                            ]
+                        ],
+                        [
+                            [
+                                14,
+                                21
+                            ]
+                        ],
+                        [
+                            [
+                                15,
+                                21
+                            ]
+                        ],
+                        [
+                            [
+                                17,
+                                19
+                            ]
+                        ],
+                        [
+                            [
+                                18,
+                                19
+                            ]
+                        ],
+                        [
+                            [
+                                19,
+                                18
+                            ]
+                        ],
+                        [
+                            [
+                                19,
+                                17
+                            ]
+                        ],
+                        [
+                            [
+                                20,
+                                16
+                            ]
+                        ],
+                        [
+                            [
+                                20,
+                                14
+                            ]
+                        ],
+                        [
+                            [
+                                19,
+                                13
+                            ]
+                        ],
+                        [
+                            [
+                                19,
+                                11
+                            ]
+                        ],
+                        [
+                            [
+                                15,
+                                11
+                            ]
+                        ],
+                        [
+                            [
+                                13,
+                                9
+                            ]
+                        ],
+                        [
+                            [
+                                13,
+                                4
+                            ]
+                        ],
+                        [
+                            [
+                                15,
+                                2
+                            ]
+                        ],
+                        [
+                            [
+                                16,
+                                2
+                            ]
+                        ],
+                        [
+                            [
+                                14,
+                                2
+                            ]
+                        ],
+                        [
+                            [
+                                13,
+                                1
+                            ]
+                        ],
+                        [
+                            [
+                                12,
+                                1
+                            ]
+                        ],
+                        [
+                            [
+                                11,
+                                0
+                            ]
+                        ],
+                        [
+                            [
+                                10,
+                                1
+                            ]
+                        ],
+                        [
+                            [
+                                3,
+                                1
+                            ]
+                        ]
+                    ],
+                    "features": {
+                        "area": 113.5,
+                        "perimeter": 191.2375875711441,
+                        "bounding_box": [
+                            0,
+                            0,
+                            21,
+                            28
+                        ],
+                        "centroid": [
+                            12,
+                            16
+                        ],
+                        "hu_moments": [
+                            0.38673617269460325,
+                            0.0023288532661018494,
+                            0.026811621252242505,
+                            0.025575791289107773,
+                            0.0003007983164276397,
+                            -0.0010104545387912087,
+                            0.0005983893442680308
+                        ],
+                        "num_vertices": 23
+                    }
+                }
+            ]
+        },
+        "52": {
+            "tile_file": "tile_52.png",
+            "edge_file": "edges_52.png",
+            "contour_file": "contour_52.png",
+            "position": [
+                112,
+                168
+            ],
+            "grid_position": [
+                6,
+                4
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "53": {
+            "tile_file": "tile_53.png",
+            "edge_file": "edges_53.png",
+            "contour_file": "contour_53.png",
+            "position": [
+                140,
+                168
+            ],
+            "grid_position": [
+                6,
+                5
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "54": {
+            "tile_file": "tile_54.png",
+            "edge_file": "edges_54.png",
+            "contour_file": "contour_54.png",
+            "position": [
+                168,
+                168
+            ],
+            "grid_position": [
+                6,
+                6
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "55": {
+            "tile_file": "tile_55.png",
+            "edge_file": "edges_55.png",
+            "contour_file": "contour_55.png",
+            "position": [
+                196,
+                168
+            ],
+            "grid_position": [
+                6,
+                7
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "56": {
+            "tile_file": "tile_56.png",
+            "edge_file": "edges_56.png",
+            "contour_file": "contour_56.png",
+            "position": [
+                0,
+                196
+            ],
+            "grid_position": [
+                7,
+                0
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "57": {
+            "tile_file": "tile_57.png",
+            "edge_file": "edges_57.png",
+            "contour_file": "contour_57.png",
+            "position": [
+                28,
+                196
+            ],
+            "grid_position": [
+                7,
+                1
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "58": {
+            "tile_file": "tile_58.png",
+            "edge_file": "edges_58.png",
+            "contour_file": "contour_58.png",
+            "position": [
+                56,
+                196
+            ],
+            "grid_position": [
+                7,
+                2
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "59": {
+            "tile_file": "tile_59.png",
+            "edge_file": "edges_59.png",
+            "contour_file": "contour_59.png",
+            "position": [
+                84,
+                196
+            ],
+            "grid_position": [
+                7,
+                3
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "60": {
+            "tile_file": "tile_60.png",
+            "edge_file": "edges_60.png",
+            "contour_file": "contour_60.png",
+            "position": [
+                112,
+                196
+            ],
+            "grid_position": [
+                7,
+                4
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "61": {
+            "tile_file": "tile_61.png",
+            "edge_file": "edges_61.png",
+            "contour_file": "contour_61.png",
+            "position": [
+                140,
+                196
+            ],
+            "grid_position": [
+                7,
+                5
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "62": {
+            "tile_file": "tile_62.png",
+            "edge_file": "edges_62.png",
+            "contour_file": "contour_62.png",
+            "position": [
+                168,
+                196
+            ],
+            "grid_position": [
+                7,
+                6
+            ],
+            "num_contours": 0,
+            "contours": []
+        },
+        "63": {
+            "tile_file": "tile_63.png",
+            "edge_file": "edges_63.png",
+            "contour_file": "contour_63.png",
+            "position": [
+                196,
+                196
+            ],
+            "grid_position": [
+                7,
+                7
+            ],
+            "num_contours": 0,
+            "contours": []
+        }
+    }
+}
